@@ -1,0 +1,14 @@
+.grid {
+  margin-left: 320px;
+  margin-top: 58px;
+}
+
+button {
+  margin-left: 50vw;
+  margin-top: 2vh;
+  color: aliceblue;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
