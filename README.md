@@ -17,7 +17,7 @@ This projects aims to provide visualisation to one of the chadest algorithm in t
 
 
 ### Installation
-#### Step 1 : Just clone or download the repository on your machine. 
+#### Step 1 : Just clone or download the repository into your machine. 
 #### Step 2 : Install npm. You will find this helpful - [link](https://nodejs.org/en/download/package-manager/) 
 #### Step 3 : change the working directory to the cloned folder 
 ```
