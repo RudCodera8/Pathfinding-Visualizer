@@ -38,9 +38,9 @@ $ npm start
 
 ##### src folder contains all the logic of the program 
 
-##### Node.js and Node.css deals with the grid components, right from assigning numbers and classNames to mounting it on DOM. 
-##### Pathfinding.js- is the main component which renders out the whole program into App.js
-##### dijkstra.js governs the logic for the algorithm. 
+Node.js and Node.css deals with the grid components, right from assigning numbers and classNames to mounting it on DOM. 
+Pathfinding.js- is the main component which renders out the whole program into App.js
+dijkstra.js governs the logic for the algorithm. 
 
 
 
