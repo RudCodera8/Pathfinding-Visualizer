@@ -6,11 +6,8 @@ Check out the working model [here](https://hsp3j.csb.app/)
 
 ## Table of contents 
 * [More about the project](#More-about-the-project)
-* [Installation](#Installation)
+* [Installation and Running the program](#Installation)
 * [Technologies used](#Technologies-used)
-* [Running the project](#Running-the-project)
-* [Advantages of the project](#Advantages-of-the-project)
-* [Difficulties faced](#Difficulties-occured-during-the-project)
 * [Future plans for the project](#Future-plans-for-the-project)
 
 
@@ -44,5 +41,10 @@ dijkstra.js governs the logic for the algorithm.
 
 
 
+#### Technologies used
 
+##### 1) React JS 
 
+#### Future plans for the project
+
+I am planning to add more features such as user settting the starting and finish node, adding more algorithms and specifications such as weighted algorithms, A* search algorithms etc. Also planning to host it on firebase/ heroku along with github workflows. 
