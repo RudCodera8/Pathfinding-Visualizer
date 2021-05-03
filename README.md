@@ -44,7 +44,7 @@ dijkstra.js governs the logic for the algorithm.
 #### Technologies used
 
 ##### 1) React JS 
-
+##### 2) DS used : Mainly array and minheap essence. Algorithm used : Dijkstra Algorithm. 
 #### Future plans for the project
 
 I am planning to add more features such as user settting the starting and finish node, adding more algorithms and specifications such as weighted algorithms, A* search algorithms etc. Also planning to host it on firebase/ heroku along with github workflows. 
